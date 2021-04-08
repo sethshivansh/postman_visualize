@@ -44,6 +44,9 @@ Write the below script in "tests" tab
 
 Here `first_name` is the API response JSON attribute which we are formatting.
 
+![image](https://user-images.githubusercontent.com/55994712/114041783-75002600-98a2-11eb-97ae-546d53476a77.png)
+
+
 ### Step-4 : 
 
 Run the API "send' and see the formatted output in 'Visualize' Tab.

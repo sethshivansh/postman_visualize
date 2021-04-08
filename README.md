@@ -15,11 +15,8 @@ Data To format:
 
 Expected Output:
 
-`shivansh
-second_value
-third
-fourth_value
-final Value`
+![image](https://user-images.githubusercontent.com/55994712/114042268-e9d36000-98a2-11eb-9426-d27c3716304e.png)
+
 
 ## Steps to write Tests in POSTMAN
 
